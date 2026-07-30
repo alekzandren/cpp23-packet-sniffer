@@ -1,5 +1,9 @@
 # Modern C++23 Packet Sniffer
 
+[![C++23](https://img.shields.io/badge/C%2B%2B-23-blue.svg)](https://en.cppreference.com/w/cpp/compiler_support)
+[![CMake](https://img.shields.io/badge/CMake-3.22%2B-green.svg)](https://cmake.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A lightweight, high-performance, real-time network packet sniffer and header parser written in **C++23** using **libpcap**.
 
 This project demonstrates modern C++ principles, including strict resource management (RAII), zero-copy memory abstractions (`std::span`), and a modular architecture configured for JetBrains CLion and CMake.
