@@ -1,8 +1,11 @@
 # Modern C++23 Packet Sniffer
 
-[![C++23](https://img.shields.io/badge/C%2B%2B-23-blue.svg)](https://en.cppreference.com/w/cpp/compiler_support)
-[![CMake](https://img.shields.io/badge/CMake-3.22%2B-green.svg)](https://cmake.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![C++23](https://img.shields.io/badge/C%2B%2B-23-blue.svg?style=flat-square&logo=cplusplus&logoColor=white)](https://en.cppreference.com/w/cpp/23)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=flat-square)](https://github.com/alekzandren/cpp23-packet-sniffer)
+[![Version](https://img.shields.io/badge/Version-1.0.0-blueviolet.svg?style=flat-square)](https://github.com/alekzandren/cpp23-packet-sniffer)
+[![Library: libpcap](https://img.shields.io/badge/Library-libpcap-informational.svg?style=flat-square)](https://www.tcpdump.org/)
+[![Category: Network Security](https://img.shields.io/badge/Category-Network%20Security-red.svg?style=flat-square)](https://github.com/alekzandren/cpp23-packet-sniffer)
 
 A lightweight, high-performance, real-time network packet sniffer and header parser written in **C++23** using **libpcap**.
 
